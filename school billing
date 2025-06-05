@@ -183,6 +183,8 @@ void start()
             printf("\n\n\tInvalid entry!!");
             printf("\n\nTo Account Type\n\n\t");
             printf("\n")
+            printf("\n")
+            printf("\n")
             system("pause");
             start();
         }
