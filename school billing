@@ -3,6 +3,7 @@
 #include<stdlib.h>
 #include<conio.h>
 #include<windows.h>
+
 struct dat//for date(month and day
 {
     int d,m;//d=day,m=month
@@ -181,6 +182,7 @@ void start()
         {
             printf("\n\n\tInvalid entry!!");
             printf("\n\nTo Account Type\n\n\t");
+            printf("\n")
             system("pause");
             start();
         }
