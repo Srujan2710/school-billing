@@ -185,6 +185,11 @@ void start()
             printf("\n")
             printf("\n")
             printf("\n")
+            printf("\n")
+            printf("\n")
+            printf("\n")
+            printf("\n")
+            printf("\n")
             system("pause");
             start();
         }
